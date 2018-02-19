@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="21px" viewBox="0 0 20 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45 (43475) - http://www.bohemiancoding.com/sketch -->
+    <title>internal tools</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.8">
+        <g id="nav---icon-strip" transform="translate(-17.000000, -379.000000)" fill-rule="nonzero" fill="#FFCB00">
+            <g id="icons">
+                <g transform="translate(17.000000, 38.000000)">
+                    <g id="internal-tools" transform="translate(0.000000, 341.637820)">
+                        <path d="M16.6112277,0.296011397 C14.8139103,-0.342036002 12.7338698,0.0496412544 11.2954997,1.48802834 C9.857081,2.926396 9.46544992,5.00646565 10.1034754,6.80375517 L0.642560397,16.2646943 C-0.214182749,17.1213888 -0.214182749,18.5007846 0.642536097,19.3574791 C1.49923062,20.2141736 2.87860235,20.2141736 3.73532118,19.3574791 L13.1962603,9.89654 C14.9935534,10.5345898 17.0736182,10.1429101 18.511964,8.70452305 C19.9503827,7.26615297 20.3420381,5.18608332 19.7039883,3.3887938 L17.6528882,5.43992062 C16.7961936,6.29662243 15.4167979,6.29662729 14.5601045,5.43992305 C13.70341,4.58322124 13.7033857,3.20382545 14.5600802,2.34712606 L16.6112277,0.296011397 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

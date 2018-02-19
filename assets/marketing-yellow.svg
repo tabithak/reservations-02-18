@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="21px" viewBox="0 0 20 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45 (43475) - http://www.bohemiancoding.com/sketch -->
+    <title>marketing</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.8">
+        <g id="nav---icon-strip" transform="translate(-18.000000, -126.000000)" fill="#FFCB00">
+            <g id="icons">
+                <g transform="translate(17.000000, 38.000000)">
+                    <g id="marketing" transform="translate(1.000000, 88.409455)">
+                        <path d="M3.5,5 C2.672,5 2.001,4.327 2.001,3.5 C2.001,2.672 2.672,2 3.5,2 C4.328,2 5,2.672 5,3.5 C5,4.327 4.328,5 3.5,5 M8.999,0 L0,0 L0,9 C0,9.552 0.225,10.051 0.587,10.415 L9.59,19.413 C9.951,19.775 10.451,20 11.004,20 C11.557,20 12.057,19.776 12.418,19.415 L19.412,12.42 C19.775,12.058 20,11.556 20,11.004 C20,10.451 19.777,9.95 19.413,9.59 L10.415,0.585 C10.051,0.225 9.552,0 8.999,0" id="Fill-9"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

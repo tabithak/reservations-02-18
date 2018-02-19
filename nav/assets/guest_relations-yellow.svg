@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="21px" viewBox="0 0 20 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45 (43475) - http://www.bohemiancoding.com/sketch -->
+    <title>guest relations</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.8">
+        <g id="nav---icon-strip" transform="translate(-18.000000, -211.000000)" fill="#FFCB00">
+            <g id="icons">
+                <g transform="translate(17.000000, 38.000000)">
+                    <g id="guest-relations" transform="translate(1.000000, 172.818910)">
+                        <path d="M19.001,5 L17,5 L17,14 L3.999,14 L3.999,16 C3.999,16.552 4.449,17 5,17 L15.999,17 L20,21 L20,6 C20,5.447 19.552,5 19.001,5 M14.001,0.999 L1,0.999 C0.448,0.999 0,1.447 0,2 L0,16 L3.999,12 L14.001,12 C14.552,12 15,11.552 15,10.999 L15,2 C15,1.447 14.552,0.999 14.001,0.999" id="Fill-6"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

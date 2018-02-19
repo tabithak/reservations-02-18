@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="14px" viewBox="0 0 18 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>email</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" strokeWidth="1" fill="none" fillRule="evenodd">
+        <g id="license-plate-of-big-data-table-page" transform="translate(-1047.000000, -25.000000)">
+            <g id="page-actions" transform="translate(875.000000, 20.000000)">
+                <g id="email" transform="translate(169.000000, 0.000000)">
+                    <rect id="Rectangle-17" x="0" y="0" width="24" height="24"></rect>
+                    <path d="M18.9365984,8.98697933 L18.9365984,7.307292 L12,11.4869793 L5.06340162,7.307292 L5.06340162,8.98697933 L12,13.127604 L18.9365984,8.98697933 Z M18.9365984,5.627604 C19.3963343,5.627604 19.7952226,5.79687467 20.1332633,6.13541667 C20.471304,6.47395867 20.6403247,6.86458333 20.6403247,7.307292 L20.6403247,17.307292 C20.6403247,17.75 20.471304,18.1406253 20.1332633,18.4791667 C19.7952226,18.817708 19.3963343,18.9869793 18.9365984,18.9869793 L5.06340162,18.9869793 C4.60366569,18.9869793 4.20477738,18.817708 3.86673669,18.4791667 C3.528696,18.1406253 3.35967531,17.75 3.35967531,17.307292 L3.35967531,7.307292 C3.35967531,6.86458333 3.528696,6.47395867 3.86673669,6.13541667 C4.20477738,5.79687467 4.60366569,5.627604 5.06340162,5.627604 L18.9365984,5.627604 Z" id="Shape" fill="#404040" fillRule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

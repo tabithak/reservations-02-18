@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="17px" viewBox="0 0 19 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45 (43475) - http://www.bohemiancoding.com/sketch -->
+    <title>home</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.8">
+        <g id="nav---icon-strip" transform="translate(-19.000000, -38.000000)" fill="#FFCB00">
+            <g id="icons">
+                <g transform="translate(17.000000, 38.000000)">
+                    <g id="home" transform="translate(2.000000, 0.000000)">
+                        <polygon id="Shape" points="9.5 0.0448351648 0.149285714 7.15120879 1.11091837 8.3243956 9.5 1.94846154 17.8890816 8.3243956 18.8507143 7.15120879"></polygon>
+                        <polygon id="Shape" points="2.07255102 8.54483516 2.07255102 16.8748352 7.62520408 16.8748352 7.62520408 11.7374725 11.3747959 11.7374725 11.3747959 16.8748352 16.927449 16.8748352 16.927449 8.54483516 9.5 2.89934066"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

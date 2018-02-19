@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="17px" viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>bar</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="latest" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-83.000000, -605.000000)">
+        <g id="left-nav-copy-3" transform="translate(63.000000, 104.000000)">
+            <g id="navigation" transform="translate(0.000000, 12.000000)">
+                <g id="analytics" transform="translate(0.000000, 480.000000)">
+                    <g id="bar" transform="translate(16.000000, 6.000000)">
+                        <rect id="Rectangle-13-Copy-7" x="0" y="0" width="24" height="24"></rect>
+                        <path d="M16.2727273,8.07533543 L20.3955962,8.07533543 L20.3955962,19.2220986 L16.2727273,19.2220986 L16.2727273,8.07533543 Z M4,19.2220986 L4,11.1110497 L8.12286891,11.1110497 L8.12286891,19.2220986 L4,19.2220986 Z M10.1363636,19.2220986 L10.1363636,3 L14.2592325,3 L14.2592325,19.2220986 L10.1363636,19.2220986 Z" id="Shape" fill="#1F1F1F" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
